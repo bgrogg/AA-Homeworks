@@ -6,3 +6,5 @@ App Academy Homeworks
 * [Simon](./w2d1/simon)
 * [Mancala](./w2d2/mancala)
 * [RSpec](./w2d3/rspec)
+* [Sorting Demo](./w2d4/sorting_demo)
+* [Octopus](./w2d4/octopus)
