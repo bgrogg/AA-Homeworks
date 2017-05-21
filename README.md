@@ -8,3 +8,4 @@ App Academy Homeworks
 * [RSpec](./w2d3/rspec)
 * [Sorting Demo](./w2d4/sorting_demo)
 * [Octopus](./w2d4/octopus)
+* [LRU Cache](./w2d5/lru_cache)
