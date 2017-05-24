@@ -10,3 +10,4 @@ App Academy Homeworks
 * [Octopus](./w2d4/octopus)
 * [LRU Cache](./w2d5/lru_cache)
 * [Plays-Playwrights ORM](./w3d2/plays_ORM)
+* [Intro to Rails](./w3d3/intro_rails)
