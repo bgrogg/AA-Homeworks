@@ -11,3 +11,7 @@ App Academy Homeworks
 * [LRU Cache](./w2d5/lru_cache)
 * [Plays-Playwrights ORM](./w3d2/plays_ORM)
 * [Intro to Rails](./w3d3/intro_rails)
+* [Movie Buff](./w3d4/movie_buff)
+* [N + 1 Buster](./w3d4/n_1_buster)
+* [MetaCorgis](./w3d5/metacorgis)
+* [Library](./w4d1/library)
