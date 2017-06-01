@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Boris Grogg Milksteak and Jelly Beans</title>
+  </head>
+  <body>
+    <header>
+      <img src="images/aa_logo.jpg" alt="App Academy Logo">
+      <nav>
+        <ul>
+          <li><a href="#description">Description</a></li>
+          <li><a href="#ingredients">Ingredients</a></li>
+          <li><a href="#steps">Steps</a></li>
+        </ul>
+      </nav>
+    </header>
+
+    <aside>
+      <h2 id="ingredients">Ingredients</h2>
+      <ul>
+        <li>1 medium 8.8oz (.25Kg) flat iron steak (top blade shoulder steak)</li>
+        <li>2 cup milk (preferably whole, called "4%")</li>
+        <li>1/4 cup honey</li>
+        <li>1/2 tsp cinnamon</li>
+        <li>1/2 tsp nutmeg</li>
+        <li>1 tsp vanilla extract</li>
+        <li>1/2 cup Jelly Belly&reg jelly beans</li>
+      </ul>
+    </aside>
+
+    <section>
+
+      <h1>Milk Steak with Raw Jelly Beans</h1>
+
+      <figure>
+        <img src="images/milksteak.jpg" alt="milksteak"/>
+        <figcaption>
+          <a href="https://en.wikipedia.org/wiki/It%27s_Always_Sunny_in_Philadelphia">
+            As seen on It's Always Sunny In Philadelphia
+          </a>
+        </figcaption>
+      </figure>
+
+      <h2 id="description">Description</h2>
+      <p>Do you like Magnets? Are you tired of seeing people's knees?
+        Well, buddy, do I have the recipe for you! Try Charlie Kelly's
+        favorite dish, Milk Steak and Raw Jelly Beans!(Pairs excellently
+        with all cheeses)
+      </p>
+
+
+
+      <h2 id="steps">Steps</h2>
+      <ol>
+        <li>
+          Add the milk, honey, cinnamon, nutmeg, and vanilla to a medium sized saucepan.
+        </li>
+        <li>
+          Heat up the mixture, stirring until the honey has completely dissolved. Bring the mixture to the boil.
+        </li>
+        <li>
+          Carefully place the steak in the boiling milk mixture. Bring the liquid back to the boil and reduce the heat so that the milk is simmering.
+        </li>
+        <li>
+          Cook this medium-sized steak for five minutes on one side, stirring the top occasionally to stop a skin forming on the milk.
+        </li>
+        <li>
+          Turn the steak over and cook for a further five minutes on the other side.
+        </li>
+        <li>
+          Check how well cooked your steak is. If you're after authenticity, the steak should be cooked "over hard" and so should not be pink at all.
+        </li>
+        <li>
+          Allow the steak to rest for a few minutes.
+        </li>
+        <li>
+          Garnish with jelly beans.
+        </li>
+      </ol>
+  </section>
+
+  <section>
+    <form action="/reviews" method="post">
+      <label for="name">Name</label>
+      <input id="name" type="text" name="name">
+
+      <label for="rating">Rating</label>
+      1<input type="radio" name="rating" value="1" checked>
+      2<input type="radio" name="rating" value="2">
+      3<input type="radio" name="rating" value="3">
+      4<input type="radio" name="rating" value="4">
+      5<input type="radio" name="rating" value="5">
+
+      <label for="expertise">Cooking Expertise</label>
+
+      <select id="expertise" name="expertise">
+        <option value="Select Cooking Expertise" disabled="true" selected="true">Select Cooking Expertise</option>
+        <option value="Sometimes Cook">Sometimes Cook</option>
+        <option value="Everyday Cook">Everyday Cook</option>
+        <option value="Cooking is a Hobby">Cooking is a Hobby</option>
+        <option value="Professional Chef">Professional Chef</option>
+      </select>
+
+      <label>Review
+        <textarea name="review" cols="30" rows="10"></textarea>
+      </label>
+
+      <input type="submit" value="Submit Review">
+    </form>
+  </section>
+
+  <footer>
+    <p>Original recipe by Community Q&ampA members at <a href="http://wikihow.com">Wikihow</a></p>
+
+  </footer>
+
+  </body>
+</html>
