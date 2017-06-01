@@ -15,4 +15,6 @@ App Academy Homeworks
 * [N + 1 Buster](./w3d4/n_1_buster)
 * [MetaCorgis](./w3d5/metacorgis)
 * [Library](./w4d1/library)
-* [Recipes](./w4d1/recipes)
+* [Recipes - Intro and Containers](./w4d1/recipes)
+* [Recipes - Forms](./w4d2/recipes)
+* [Recipes - Head Section](./w4d3/recipes)
