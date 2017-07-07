@@ -19,3 +19,4 @@ App Academy Homeworks
 * [Recipes - Forms](./w4d2/recipes)
 * [Recipes - Head Section](./w4d3/recipes)
 * [Rails Auth](./w4d3/RailsAuth)
+* [Helpers, Layouts, and Partials](./w4d4/rails_auth)
