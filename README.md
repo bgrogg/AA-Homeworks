@@ -23,3 +23,6 @@ App Academy Homeworks
 * [Capybara](./w4d5/MusicApp)
 * [Polymorphism and Concerns](./w5d1/PolyConcerns)
 * [Intro JS Exercises](./w5d3/introJS)
+
+* [Getting Started With NPM](./w6d5/getting_started_with_npm)
+* [React Calculator](./w6d5/react_calculator)
