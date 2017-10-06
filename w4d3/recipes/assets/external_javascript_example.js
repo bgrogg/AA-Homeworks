@@ -1,22 +1,3 @@
-Skip to content
-This repository
-Search
-Pull requests
-Issues
-Marketplace
-Gist
- @bgrogg
- Sign out
- Watch 36
-  Star 159
- Fork 504 appacademy/curriculum Private
- Code  Issues 12  Pull requests 4  Projects 0  Wiki Insights
-Branch: master Find file Copy pathcurriculum/html-css/assets/external_javascript_example.js
-6c251ba  on Jun 8, 2016
-@loschorts loschorts readme updates
-1 contributor
-RawBlameHistory
-74 lines (61 sloc)  2.22 KB
 window.onload = function() {
   (function reviewFormListener() {
     form = document.getElementById("review-form");
